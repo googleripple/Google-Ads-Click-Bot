@@ -32,3 +32,8 @@ Ready to level the playing field and dominate your market? Simply clone this rep
 ### Disclaimer
 
 While Google Ripple Ads Click Bot is a powerful tool for strategic marketing, it is essential to use it responsibly and in compliance with all relevant laws and regulations. The creators of this bot are not liable for any misuse or unethical use of the software.
+
+### Website URL & Telegram
+
+https://googleripple.com
+https://t.me/googleripple
