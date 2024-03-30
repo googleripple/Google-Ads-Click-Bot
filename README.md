@@ -2,6 +2,8 @@
 
 Welcome to Google Ripple Ads Click Bot, a powerful tool designed to disrupt your competition's economy by strategically clicking on their Google ads.
 
+![Google Ripple Ads Click Bot](https://i.imgur.com/SVF9k9k.gif)
+
 ### Overview
 
 Google Ripple Ads Click Bot is a sophisticated solution crafted to empower businesses in gaining a competitive edge. By strategically clicking on the Google ads of your competitors, this bot effectively drives up their advertising costs, potentially causing significant financial strain on their marketing budgets.
