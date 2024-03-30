@@ -36,4 +36,5 @@ While Google Ripple Ads Click Bot is a powerful tool for strategic marketing, it
 ### Website URL & Telegram
 
 https://googleripple.com
+
 https://t.me/googleripple
