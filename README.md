@@ -27,7 +27,7 @@ This bot operates seamlessly in the background, intelligently identifying and cl
 
 ### Get Started
 
-Ready to level the playing field and dominate your market? Simply clone this repository and follow the setup instructions in the README file to deploy Google Ripple Ads Click Bot and start making waves in your industry.
+Visit our website to see more informations and learn more about google ads click bot.
 
 ### Disclaimer
 
