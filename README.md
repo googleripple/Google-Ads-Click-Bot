@@ -33,8 +33,7 @@ Visit our website to see more informations and learn more about google ads click
 
 While Google Ripple Ads Click Bot is a powerful tool for strategic marketing, it is essential to use it responsibly and in compliance with all relevant laws and regulations. The creators of this bot are not liable for any misuse or unethical use of the software.
 
-### Website URL & Telegram
+### Contact & Info
 
-https://googleripple.com
-
-https://t.me/googleripple
+🆘 Support : @googlerippleadmin (https://t.me/googlerippleadmin)
+🕸 Website: googleripple.com (https://googleripple.com/)
