@@ -36,4 +36,5 @@ While Google Ripple Ads Click Bot is a powerful tool for strategic marketing, it
 ### Contact & Info
 
 🆘 Support : @googlerippleadmin (https://t.me/googlerippleadmin)
+
 🕸 Website: googleripple.com (https://googleripple.com/)
