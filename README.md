@@ -6,7 +6,7 @@ Tired of competitors dominating Google Ads results and eating up your market sha
 
 - **Premium Access Only**: Unlock advanced AI, unlimited proxies, and 24/7 support via our subscription plans.
 
-[Get Started Now](https://googleripple.com/) | [Documentation](https://googleripple.com/docs) | [Join Discord](https://discord.gg/googleripple)
+[Get Started Now](https://googleripple.com/) | [Telegram](https://t.me/googleripple) | [Support](https://t.me/googlerippleadmin)
 
 ## 🔥 Why Choose GoogleRipple as Your Google Ads Clicker?
 
@@ -22,23 +22,21 @@ This **Google Ads auto clicker** is perfect for PPC marketers, e-commerce owners
 ## 🛠 Quick Start: How to Use This Google Ads Clicker
 
 ### Prerequisites
-- Latest Chrome browser
 - Residential proxies (recommended: purchase from our partners for optimal stealth)
 - RDP server for headless operation (optional but advised)
 
 ### Installation
-1. Download the software from [our website](https://googleripple.com/download).
+1. Download the software from [releases](https://github.com/googleripple/Google-Ads-Click-Bot/releases/tag/google-ads-clicker).
 2. Install on an RDP server.
 3. Follow the setup wizard for configuration.
 
-**Pro Tip**: For Windows users, check our [Windows Setup Guide](https://googleripple.com/docs/windows-setup).
+**Pro Tip**: We offer free trial before buying including free setup.
 
 ### Basic Usage
 Configure via the user-friendly interface:
 - Enter search queries like "wireless keyboard".
 - Target specific competitors (e.g., Amazon, eBay) and exclude others.
 - Add proxies for anonymity.
-- Enable headless mode if needed.
 
 #### Multi-Process Mode
 Scale up with multiple browsers through the dashboard settings.
@@ -48,8 +46,8 @@ Set up indefinite runs with customizable delays.
 
 ### Advanced Configuration
 Use the config panel for custom settings:
-- Visit time: Seconds to stay on ad pages (default: 4–10s randomized).
-- Scroll limit: Max scrolls per search (0 = full page).
+- Visit time: Seconds to stay on ad pages (default: 40–120s randomized).
+- Scroll limit: Max scrolls per search (for better results).
 - Click delay: Random delay between clicks (1–5s).
 
 ## 📊 Pricing Plans: Free vs. Premium
@@ -60,7 +58,7 @@ Use the config panel for custom settings:
 | **3 Months** 🔥 | $197.85 | Mid-term growth | ✅ Best value, ✅ All features included |
 | **1 Year** | $149.85 | Long-term dominance | ✅ Lowest cost per month |
 
-**Subscribe to Premium**: Unlock full power. [Pricing Details](https://googleripple.com/pricing)
+**Subscribe to Premium**: Unlock full power. [Pricing Details](https://googleripple.com/)
 
 ## ❓ FAQ: Google Ads Clicker Essentials
 
@@ -71,22 +69,25 @@ A **Google Ads clicker** (or **ad click bot**) automates clicks on paid search a
 This tool is for educational and ethical competitive analysis. Use responsibly – we're not liable for misuse. Always comply with Google's terms and local laws.
 
 ### Do I Need Proxies?
-Yes! Residential proxies are crucial for undetectability. Get premium ones from [our partners](https://googleripple.com/proxies).
+Yes! Residential proxies are crucial for undetectability. Get premium ones from [our partners](https://googleripple.com/).
 
 ### Free Trial?
-Claim a 1-day trial: [Contact Us](https://googleripple.com/trial).
+Claim a 1-day trial: [Contact Us](https://t.me/googleripple).
 
 ### Refund Policy?
 Refunds within 7 days if the tool fails due to our bugs (not user error). No refunds for bans from misuse.
 
 ### Setup Help?
-- RDP Guide: [Here](https://googleripple.com/docs/rdp-setup).
 - 1-on-1 Support: Available in premium plans.
 
 ## ⚡ Dominate Google Ads Today
 Stop losing to competitors – **GoogleRipple Ad Clicker** turns the tables with stealthy, automated clicks. Start draining budgets and claiming top spots now!
 
-🚀 [Download & Run](https://googleripple.com/download) | [Watch Demo Video](https://youtu.be/demo)
+🚀 [Download & Run](https://github.com/googleripple/Google-Ads-Click-Bot/releases/tag/google-ads-clicker) | [Watch Demo Video](https://youtu.be/)
+
+---
+
+[![Ad](https://github.com/user-attachments/assets/27a4caf9-141c-488d-9699-68e3d96ea77d)](https://googleripple.com)
 
 ---
 
