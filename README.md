@@ -87,7 +87,7 @@ Stop losing to competitors – **GoogleRipple Ad Clicker** turns the tables with
 
 ---
 
-[![Ad](https://github.com/user-attachments/assets/27a4caf9-141c-488d-9699-68e3d96ea77d)](https://googleripple.com)
+[![Ad](https://i.imgur.com/QS5Eylr.png)](https://googleripple.com)
 
 ---
 
