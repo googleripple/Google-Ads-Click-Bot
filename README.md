@@ -55,8 +55,8 @@ Use the config panel for custom settings:
 | Plan | Monthly Price | Best For | Features |
 |------|-------------|----------|----------|
 | **1 Month** | $297.85 | Short-term campaigns | ✅ Full access, ✅ Instant setup, ✅ Premium support, ✅ Free updates |
-| **3 Months** 🔥 | $197.85 | Mid-term growth | ✅ Best value, ✅ All features included |
-| **1 Year** | $149.85 | Long-term dominance | ✅ Lowest cost per month |
+| **3 Months** 🔥 | $247.85 | Mid-term growth | ✅ Best value, ✅ All features included |
+| **1 Year** | $199.85 | Long-term dominance | ✅ Lowest cost per month |
 
 **Subscribe to Premium**: Unlock full power. [Pricing Details](https://googleripple.com/)
 
