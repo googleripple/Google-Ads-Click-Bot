@@ -72,7 +72,7 @@ This tool is for educational and ethical competitive analysis. Use responsibly â
 Yes! Residential proxies are crucial for undetectability. Get premium ones from [our partners](https://googleripple.com/).
 
 ### Free Trial?
-Claim a 1-day trial: [Contact Us](https://t.me/googleripple).
+Claim a 1-day trial: [Register](https://panel.googleripple.com).
 
 ### Refund Policy?
 Refunds within 7 days if the tool fails due to our bugs (not user error). No refunds for bans from misuse.
