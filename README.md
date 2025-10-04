@@ -6,7 +6,7 @@ Tired of competitors dominating Google Ads results and eating up your market sha
 
 - **Premium Access Only**: Unlock advanced AI, unlimited proxies, and 24/7 support via our subscription plans.
 
-[Get Started Now](https://googleripple.com/) | [Telegram](https://t.me/googleripple) | [Support](https://t.me/googlerippleadmin)
+[Get Started Now](https://googleripple.com/) | [Free Trial](https://panel.googleripple.com) | [Telegram](https://t.me/googleripple) | [Support](https://t.me/googlerippleadmin)
 
 ## 🔥 Why Choose GoogleRipple as Your Google Ads Clicker?
 
